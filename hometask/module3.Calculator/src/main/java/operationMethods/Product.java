@@ -1,6 +1,6 @@
-package operation.methods;
+package operationMethods;
 
-import basic.methods.Operation;
+import basicMethods.Operation;
 
 /*
  * Operation interface implementation

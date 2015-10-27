@@ -1,4 +1,4 @@
-package basic.methods;
+package basicMethods;
 
 /*
  * Main class CalculatorRunner:  

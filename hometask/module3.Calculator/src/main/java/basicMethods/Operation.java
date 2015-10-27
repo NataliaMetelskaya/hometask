@@ -1,4 +1,4 @@
-package basic.methods;
+package basicMethods;
 
 /*
  * Interface Operation is implemented in classes from operation.methods package
