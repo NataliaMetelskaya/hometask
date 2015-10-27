@@ -56,7 +56,7 @@ class Calculator {
 			//Exit cycle check
 			System.out.println("Would you like to continue?");
 			System.out.print("1 - Continue; \t");
-			System.out.println("2 - Exit.");
+			System.out.println("2 - Exit.\n");
 			
 			int goOn = in.nextInt();
 			if (goOn == 2){
