@@ -1,1 +1,10 @@
-/target/
+target/
+.idea
+.git
+*.*~
+*.iml
+src/main/tmp
+.classpath
+.project
+.settings
+.metadata
