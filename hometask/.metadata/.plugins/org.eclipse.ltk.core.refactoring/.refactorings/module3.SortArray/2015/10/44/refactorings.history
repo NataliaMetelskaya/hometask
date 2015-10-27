@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;module3.sortarray&apos; to &apos;sortArray&apos;&#x0D;&#x0A;- Original project: &apos;module3.SortArray&apos;&#x0D;&#x0A;- Original element: &apos;module3.SortArray/src/main/java/module3.sortarray&apos;&#x0D;&#x0A;- Renamed element: &apos;module3.SortArray/src/main/java/sortArray&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;module3.sortarray&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;module3.sortarray" name="sortArray" qualified="false" references="true" stamp="1445974922858" textual="false" version="1.0"/>
+</session>

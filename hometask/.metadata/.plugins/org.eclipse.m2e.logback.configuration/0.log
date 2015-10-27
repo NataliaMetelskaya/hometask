@@ -1,0 +1,59 @@
+2015-10-27 16:34:39,877 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam:tamentoring:0.0.1-SNAPSHOT @ D:\EDU\JAVA\GitHub\hometask\hometask\module3\pom.xml.
+2015-10-27 16:34:40,789 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:ta:0.0.1-SNAPSHOT @ D:\EDU\JAVA\GitHub\hometask\hometask\module3.Calculator\pom.xml.
+2015-10-27 16:34:42,084 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /module3.Calculator/src/main/java
+2015-10-27 16:34:42,085 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /module3.Calculator/src/test/java
+2015-10-27 16:34:42,231 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /module3/src/main/java
+2015-10-27 16:34:42,232 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /module3/src/test/java
+2015-10-27 16:34:42,297 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 8 sec
+2015-10-27 16:34:42,344 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam:tamentoring:0.0.1-SNAPSHOT @ D:\EDU\JAVA\GitHub\hometask\hometask\module3\pom.xml.
+2015-10-27 16:34:42,736 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:ta:0.0.1-SNAPSHOT @ D:\EDU\JAVA\GitHub\hometask\hometask\module3.Calculator\pom.xml.
+2015-10-27 16:34:44,790 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:34:44,791 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\main\resources
+2015-10-27 16:34:44,793 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:34:44,793 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\test\resources
+2015-10-27 16:34:44,969 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:34:44,969 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.Calculator\src\main\resources
+2015-10-27 16:34:44,971 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:34:44,971 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.Calculator\src\test\resources
+2015-10-27 16:35:03,971 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:35:03,972 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\main\resources
+2015-10-27 16:35:03,973 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:35:03,973 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\test\resources
+2015-10-27 16:35:03,980 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:35:03,980 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.Calculator\src\main\resources
+2015-10-27 16:35:03,982 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:35:03,982 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.Calculator\src\test\resources
+2015-10-27 16:37:46,916 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:37:46,916 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\main\resources
+2015-10-27 16:37:46,919 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:37:46,919 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\test\resources
+2015-10-27 16:38:14,783 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:38:14,783 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\main\resources
+2015-10-27 16:38:14,785 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:38:14,785 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\test\resources
+2015-10-27 16:38:48,021 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:38:48,021 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\main\resources
+2015-10-27 16:38:48,023 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:38:48,023 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\test\resources
+2015-10-27 16:40:10,522 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:40:10,523 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\main\resources
+2015-10-27 16:40:10,524 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:40:10,525 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\test\resources
+2015-10-27 16:40:43,204 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:40:43,204 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\main\resources
+2015-10-27 16:40:43,206 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:40:43,207 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3\src\test\resources
+2015-10-27 16:41:20,163 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam:tamentoring:0.0.1-SNAPSHOT @ D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\pom.xml.
+2015-10-27 16:41:20,483 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:41:20,483 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\src\main\resources
+2015-10-27 16:41:20,485 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:41:20,485 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\src\test\resources
+2015-10-27 16:41:21,209 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: epam:tamentoring:0.0.1-SNAPSHOT @ D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\pom.xml.
+2015-10-27 16:41:21,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:41:21,830 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\src\main\resources
+2015-10-27 16:41:21,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:41:21,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\src\test\resources
+2015-10-27 16:42:03,140 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:42:03,141 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\src\main\resources
+2015-10-27 16:42:03,144 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 16:42:03,145 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EDU\JAVA\GitHub\hometask\hometask\module3.SortArray\src\test\resources

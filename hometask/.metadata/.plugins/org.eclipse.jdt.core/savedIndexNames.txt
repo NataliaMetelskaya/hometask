@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\EDU\JAVA\GitHub\hometask\hometask\.metadata\.plugins\org.eclipse.jdt.core
+2535457893.index
