@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project &apos;module3&apos; to &apos;module3.SortArray&apos;&#x0D;&#x0A;- Original element: &apos;module3&apos;&#x0D;&#x0A;- Renamed element: &apos;module3&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;module3&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=module3" name="module3.SortArray" references="true" stamp="1445974878930" version="1.0"/>
-</session>
