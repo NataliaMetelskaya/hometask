@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 class Calculator {
 
-	OperationDefinition operationDefinition;
+	private OperationDefinition operationDefinition;
 
 	public Calculator(OperationDefinition operation) {
 		this.operationDefinition = operation;

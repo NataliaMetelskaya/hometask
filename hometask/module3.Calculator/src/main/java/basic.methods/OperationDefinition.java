@@ -6,10 +6,10 @@ package basic.methods;
  * - returns operation according to parameter.
  */
 
-import operationMethods.Addition;
-import operationMethods.Division;
-import operationMethods.Product;
-import operationMethods.Subtraction;
+import operation.methods.Addition;
+import operation.methods.Division;
+import operation.methods.Product;
+import operation.methods.Subtraction;
 
 class OperationDefinition {
 
