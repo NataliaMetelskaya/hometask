@@ -1,8 +1,9 @@
 1. open cmd from the project catalog
-2. collect all java file pathes in "source" file: 
+2. create in project folder "classes" directory
+3. collect all java file pathes in "source" file: 
 dir /s/b/o *.java > source 
-3. compile source files:
+4. compile source files:
 javac -d classes -sourcepath src @source
-4. run the program:
+5. run the program:
 java -cp classes sort.array.SortArray
 
