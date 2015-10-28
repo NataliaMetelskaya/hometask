@@ -1,4 +1,4 @@
-package sortArray;
+package sort.array;
 
 public class SortArray {
 	public static void main(String[] args) {
